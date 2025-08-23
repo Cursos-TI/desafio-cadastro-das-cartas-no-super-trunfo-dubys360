@@ -39,7 +39,7 @@ int main() {
 
 // Cadastro da carta 2
     printf("\nDigite o nome do Estado 2:\n");
-    scanf("%S", Estado2);
+    scanf("%s", Estado2);
 
     printf("Digite o Código da Carta 2:\n");
     scanf(" %s", CodigoCarta2);
