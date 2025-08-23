@@ -63,7 +63,7 @@ int main() {
     printf("Carta 1:\n Estado: %s\n Código da Carta 1: %s\n População: %d\n Pontos Turísticos: %d\n Área: %.2f\n PIB: %.2f\n",
            Estado1, CodigoCarta1, Populacao1, Numerodepontosturisticos1, Area1, PIB1);
 
-    printf("Carta 2:\n Estado: %s\n Código da Carta 2: %s\n População: %d\n Pontos Turísticos: %d Área: %.2f\n PIB: %.2f",
+    printf("Carta 2:\n Estado: %s\n Código da Carta 2: %s\n População: %d\n Pontos Turísticos: %d\n Área: %.2f\n PIB: %.2f\n",
     Estado2, CodigoCarta2, Populacao2, Numerodepontosturisticos2, Area2, PIB2);
 
 
