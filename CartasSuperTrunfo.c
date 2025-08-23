@@ -38,7 +38,7 @@ int main() {
     scanf("%f", &PIB1);
 
 // Cadastro da carta 2
-    printf("\nDigite o nome do Estado 2:\n");
+    printf("Digite o nome do Estado 2:\n");
     scanf("%s", Estado2);
 
     printf("Digite o Código da Carta 2:\n");
